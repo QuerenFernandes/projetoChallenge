@@ -1,0 +1,38 @@
+.vagas {
+    padding-top: 4rem;
+
+}
+.vaga__setor {
+    color: var(--preto);
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 64px;
+}
+
+.vaga {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    border: 1px solid var(--cinza-borda);
+    border-radius: 15px;
+    padding: 24px;
+    margin: 0 auto;
+    margin-top: 2rem;
+    max-width: 50%;
+
+
+}
+
+.vaga__titulo {
+    color: var(--preto);
+}
+
+.vaga__info {
+    color: var(--cinza-claro);
+    padding: 0 24px;
+    display: flex;
+    gap: 2rem;
+    padding-top: 2em;
+    
+}

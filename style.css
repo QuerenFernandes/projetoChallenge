@@ -2,6 +2,7 @@
  @import url(/css/cabecalho.css);
  @import url(/css/metricas.css);
  @import url(/css/talentos.css);
+ @import url(/css/vagas.css);
 
 
  
@@ -9,6 +10,7 @@
     --fonte-principal: 'Inter', sans-serif;
     --cinza-escuro: #3A404E;
     --cinza-claro: #667085;
+    --cinza-borda: #EAECF0;
     --vermelho: #8E2424;
     --vermelho-claro: rgba(142, 36, 36, 0.05);
     --preto: #101828;
