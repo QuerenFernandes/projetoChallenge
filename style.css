@@ -1,4 +1,6 @@
  @import url(/css/navbar.css);
+ @import url(/css/cabecalho.css);
+ @import url(/css/metricas.css);
  :root {
     --fonte-principal: 'Inter', sans-serif;
     --cinza-escuro: #3A404E;
@@ -9,3 +11,10 @@
     --branco: #FFF;
 }
 
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--fonte-principal);
+}

@@ -1,0 +1,23 @@
+.metricas {
+    display: flex;
+    padding: 1rem 0;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 64px;
+}
+
+.metricas__texto {
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--vermelho);
+}
+
+.metricas__titulo {
+    font-size: 18px;
+    color: var(--preto);
+    font-weight: 500;
+}
+
+.metricas__paragrafo {
+    color: var(--cinza-claro);
+}
