@@ -3,6 +3,8 @@
  @import url(/css/metricas.css);
  @import url(/css/talentos.css);
  @import url(/css/vagas.css);
+ @import url(/css/depoimentos.css);
+ @import url(/css/rodape.css);
 
 
  
@@ -11,6 +13,7 @@
     --cinza-escuro: #3A404E;
     --cinza-claro: #667085;
     --cinza-borda: #EAECF0;
+    --cinza-footer: #F9FAFB;
     --vermelho: #8E2424;
     --vermelho-claro: rgba(142, 36, 36, 0.05);
     --preto: #101828;
