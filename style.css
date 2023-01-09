@@ -1,6 +1,10 @@
  @import url(/css/navbar.css);
  @import url(/css/cabecalho.css);
  @import url(/css/metricas.css);
+ @import url(/css/talentos.css);
+
+
+ 
  :root {
     --fonte-principal: 'Inter', sans-serif;
     --cinza-escuro: #3A404E;
