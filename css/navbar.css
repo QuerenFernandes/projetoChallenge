@@ -1,0 +1,47 @@
+
+.navbar-container {
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    margin-top: 32px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navbar__logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo__imagem {
+    width: 27px;
+    height: 27px;
+    margin-right: 8px;
+}
+
+.logo__texto {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cinza-escuro);
+}
+
+.navbar__menu-lista {
+    display: flex; 
+}
+
+.navbar__menu-item, .navbar__login-texto {
+    color: var(--cinza-claro);
+    margin-right: 32px;
+}
+
+.navbar__login-texto {
+    text-decoration: none;
+}
+
+.navbar__login-botao {
+    color: var(--branco);
+    background: var(--vermelho);
+    padding: 10px 18px;
+    border-radius: 8px;
+    border: none;
+}
