@@ -1,9 +1,10 @@
 .metricas {
     display: flex;
+    justify-content: space-around;
     padding: 1rem 0;
     align-items: center;
-    justify-content: space-evenly;
-    gap: 64px;
+    gap: 3rem;
+    margin: 0 12em;
 }
 
 .metricas__texto {
